@@ -1,0 +1,34 @@
+{
+  "features": [
+    "HighBP",
+    "HighChol",
+    "CholCheck",
+    "BMI",
+    "Smoker",
+    "Stroke",
+    "HeartDiseaseorAttack",
+    "PhysActivity",
+    "Fruits",
+    "Veggies",
+    "HvyAlcoholConsump",
+    "AnyHealthcare",
+    "NoDocbcCost",
+    "GenHlth",
+    "MentHlth",
+    "PhysHlth",
+    "DiffWalk",
+    "Sex",
+    "Age",
+    "Education",
+    "Income"
+  ],
+  "threshold": 0.5,
+  "young_threshold": 0.2,
+  "young_age_codes": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "test_roc_auc": 0.827
+}
