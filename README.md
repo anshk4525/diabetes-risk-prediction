@@ -2,7 +2,7 @@
 
 A machine learning model that flags people at high risk of diabetes or prediabetes from **CDC health survey answers**, so they can be referred for screening. Includes a model comparison, honest threshold selection, feature importance, and a **fairness analysis** across age, income and sex.
 
-**Live demo:** *coming soon*
+**Live demo:** https://diabetes-risk-ak.streamlit.app/
 
 ## Highlights
 
