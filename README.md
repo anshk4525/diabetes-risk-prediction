@@ -110,6 +110,6 @@ Python, pandas, NumPy, scikit-learn, LightGBM, matplotlib, seaborn, Jupyter
 
 ## Author
 
-**Ansh K**, CS & Mathematics @ Rutgers University
+**Ansh Kumar**, CS & Mathematics @ Rutgers University
 
 *This project is for learning purposes only and is not medical advice.*
