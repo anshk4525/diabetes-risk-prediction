@@ -98,7 +98,7 @@ git clone https://github.com/anshk4525/diabetes-risk-prediction.git
 cd diabetes-risk-prediction
 python3 -m venv venv
 source venv/bin/activate
-pip install -r requirements.txt
+pip install -r requirements-dev.txt.
 jupyter notebook
 ```
 
